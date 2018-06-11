@@ -1,0 +1,57 @@
+header 
+{
+	background-color: rgba(106,90,205,0.5);
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	font-size: 
+}
+body
+{
+	background: url("./images/Night_sky.jpg"),no-repeat center fixed;
+	/*background-image: url("./images/Night_sky.jpg");*/
+	background-size: cover;
+	/*background-position: left-top,right-bottom;*/
+	/*background-repeat: no-repeat;*/
+	background-color: #cccccc;
+}
+h1
+{
+	 color: rgba(255,99,71,0.7);
+	 /*background-color: tomato;*/
+	 text-align: center;
+}
+.style1
+{
+	color: cyan; 
+	font-family: "Dancing Script", sans-serif;
+	text-align: center;
+}
+.style2
+{
+	color: violet;
+	font-family: "Open Sans", sans-serif;
+	text-align: center;
+}
+.style3
+{
+	color: green;
+	font-family: "Poiret One", sans-serif;
+	text-align: center;
+}
+img
+{
+	float: right;
+	width: 20px;
+	height: 30px;
+}
+footer 
+{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	background-color: rgba(106,90,205,0.4);
+	height: 60px;
+	width: 100%;
+	text-align: center;
+}
